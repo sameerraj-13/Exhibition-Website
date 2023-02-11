@@ -1,4 +1,3 @@
-
 <?php
 include("connection.php");
 $fn=$_GET['firstname'];
